@@ -2,7 +2,7 @@
 - https://youtube.com/shorts/GOw5kZbcpiE?feature=share
 
 # Ventajas de usar corrutinas y Callbacks
-(img/pic.jpg)
+![Ventajas](img/pic.jpg)
   
 
 # Using Kotlin Coroutines in your Android app
