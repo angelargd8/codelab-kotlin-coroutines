@@ -1,5 +1,5 @@
 # Vídeo: 
-- https://www.youtube.com/watch?v=GOw5kZbcpiE
+- https://youtube.com/shorts/GOw5kZbcpiE?feature=share
   
 
 # Using Kotlin Coroutines in your Android app
