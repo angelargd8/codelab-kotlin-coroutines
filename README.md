@@ -2,6 +2,8 @@
 - https://youtube.com/shorts/GOw5kZbcpiE?feature=share
 
 # Ventajas de usar corrutinas y Callbacks
+- hay un documento pdf en este repositorio con las referencias y etc.
+  
 ![Ventajas](img/pic.jpg)
   
 
